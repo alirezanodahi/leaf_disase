@@ -1,2 +1,2 @@
-# leaf_disase
+# leaf_disease
 all information avalable in notebook
